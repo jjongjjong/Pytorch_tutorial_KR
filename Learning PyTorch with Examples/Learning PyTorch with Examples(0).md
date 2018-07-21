@@ -5,7 +5,8 @@
 **역자**: 장종환
 
 ```
-현 저작물의 저작권은 원문 저자 Justim Johnson에게 있으며, 이를 한글로 번역한 글입니다. 만약 저작권으로 인한 문제가 생길 시, 지워질 수 있습니다. 
+현 저작물의 저작권은 원문 저자 Justim Johnson에게 있으며, 이를 한글로 번역한 글입니다. 
+만약 저작권으로 인한 문제가 생길 시, 지워질 수 있습니다. 
 ```
 
 *This tutorial introduces the fundamental concepts of* [PyTorch](https://github.com/pytorch/pytorch) *through self-contained examples.*
