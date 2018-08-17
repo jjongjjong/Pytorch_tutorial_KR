@@ -10,7 +10,7 @@ Pytorch를 소개하기 앞서 numpy 라이브러리를 활용한 네크워크 �
 
 Numpy는 N-차원의 배열 객체를 만들 수 있으며, 이런 배열들을 조작할 수 있는 다양한 기능들을 제공한다.  Numpy 는 과학적 컴퓨팅 연산을 위한 프레임웤이다. (앞으로 배우게 될 파이토치와는 다르게) 그래프 연산, 딥러닝, 그래디언트는 고려되지 않고 만들어진 정말 연산을 위한 라이브러리다. 하지만 Numpy만으로도 순전파, 역전파를 구현하고, 임의의 데이터를 학습하는 신경망(2-layers)을 최적화 시킬 수 있다. 
 
-
+![2_layer](C:\Users\jjangjjong\Google 드라이브\종환\블로그\pytorch_tutorial_KR\Learning PyTorch with Examples\pictures\2_layer.png)
 
 ```
 # -*- coding: utf-8 -*-
