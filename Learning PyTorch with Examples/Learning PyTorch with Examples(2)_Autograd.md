@@ -18,7 +18,9 @@
 
 아래 코드는 파이토치의 Tensor와 autograd를 우리 2-layer 네트워크에 적용해보고자 한다. 우린 더 이상 일일히 네크워크를 통한 역전파를 구하지 않아도 된다!
 
-![2_layer](C:\Users\jjangjjong\Google 드라이브\종환\블로그\pytorch_tutorial_KR\Learning PyTorch with Examples\pictures\2_layer.png)
+![2_layer](./pictures/2_layer.png)
+
+
 
 ```
 # -*- coding: utf-8 -*-
